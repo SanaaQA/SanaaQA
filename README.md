@@ -12,7 +12,7 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 
 ## Certifications
-- [ISTQB CTFR](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
+- [ISTQB CTFR](https://www.linkedin.com/posts/sana-sameer-b2b9a114b_istqb-ctfl-softwaretesting-activity-7149364175029305344-sR2n?utm_source=share&utm_medium=member_desktop)
 - [Cypress V13 using Mocha and Cucumber](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
 - Advanced Software Testing - QSteps Institute of Technology, Kannur
 
