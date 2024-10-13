@@ -11,9 +11,25 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 
+### Tools Used
+
+#### Functional
+- **Languages**: Java, C#, JavaScript, Python, SQL
+- **Frameworks**: TestNG, Node.js, Mocha, Cucumber, Page Object Model
+
+#### API
+- **Testing Tools**: Postman, Rest Assured
+
+#### Project Management
+- **Tools**: JIRA, Trello, Asana
+
+#### Performance
+- **Monitoring Tools**: JMeter, HP LoadRunner
+
+#### CI/CD
+- **Tools**: Jenkins, Azure DevOps, Git
+
 ## Certifications
 - [ISTQB CTFR](https://www.linkedin.com/posts/sana-sameer-b2b9a114b_istqb-ctfl-softwaretesting-activity-7149364175029305344-sR2n?utm_source=share&utm_medium=member_desktop)
 - [Cypress V13 using Mocha and Cucumber](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
 - Advanced Software Testing - QSteps Institute of Technology, Kannur
-
-
