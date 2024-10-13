@@ -2,7 +2,11 @@
 
 
 ## Social
-[![Find me on LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=15)](https://www.linkedin.com/in/sana-sameer-b2b9a114b)
+[![Let's Connect!](https://img.shields.io/badge/Let's_Connect!-0077B5?style=flat&logo=linkedin&logoColor=white&border-radius=15&width=140)](https://www.linkedin.com/in/sana-sameer-b2b9a114b)
+
+Feel free to reach out to me for networking, collaboration, or any inquiries. I’m always open to discussing opportunities in the tech industry!
+
+
 
 ## My Languages
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -14,7 +18,7 @@
 ### Tools Used
 
 #### Functional
-- **Languages**: Java, C#, JavaScript, Python, SQL
+- **Testing Tools**: Selenium, Cypress, Playwright, UFT
 - **Frameworks**: TestNG, Node.js, Mocha, Cucumber, Page Object Model
 
 #### API
@@ -33,3 +37,4 @@
 - [ISTQB CTFR](https://www.linkedin.com/posts/sana-sameer-b2b9a114b_istqb-ctfl-softwaretesting-activity-7149364175029305344-sR2n?utm_source=share&utm_medium=member_desktop)
 - [Cypress V13 using Mocha and Cucumber](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
 - Advanced Software Testing - QSteps Institute of Technology, Kannur
+
