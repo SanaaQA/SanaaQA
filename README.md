@@ -11,3 +11,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 
+## Certifications
+- [ISTQB CTFR](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
+- [Cypress V13 using Mocha and Cucumber](https://www.linkedin.com/feed/update/urn:li:activity:7245477586993086464/)
+- Advanced Software Testing - QSteps Institute of Technology, Kannur
+
+
