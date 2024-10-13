@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @SanaaQA
-- 👀 I’m interested in Automation testing
-- 🌱 I’m currently learning Cucumber,API
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SanaaQA/SanaaQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Sana Sameer! With over 4.6 years of experience in both automation and manual testing, I am passionate about delivering high-quality software solutions. I specialize in Selenium with Java and C#, and I’m proficient in Cypress, Playwright, and Cucumber 🥒, which I use to implement Behavior Driven Development (BDD) for effective collaboration between teams.I thrive on integrating testing frameworks with CI/CD tools like Jenkins 🔧 to streamline the development process. Always eager to expand my skill set, I take the opportunity to learn new tools and technologies whenever I can. I believe that continuous learning and adaptation are key to success in the ever-evolving tech landscape 📈.
