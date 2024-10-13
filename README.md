@@ -21,7 +21,7 @@
 - **Testing Tools**: Postman, Rest Assured
 
 #### Project Management
-- **Tools**: JIRA, Trello, Asana
+- **Tools**: JIRA, Azure Devops
 
 #### Performance
 - **Monitoring Tools**: JMeter, HP LoadRunner
