@@ -1,7 +1,7 @@
 👋 Hi, I’m Sana Sameer! With over 4.6 years of experience in both automation and manual testing, I am passionate about delivering high-quality software solutions. I specialize in Selenium with Java and C#, and I’m proficient in Cypress, Playwright, and Cucumber 🥒, which I use to implement Behavior Driven Development (BDD) for effective collaboration between teams.I thrive on integrating testing frameworks with CI/CD tools like Jenkins 🔧 to streamline the development process. Always eager to expand my skill set, I take the opportunity to learn new tools and technologies whenever I can. I believe that continuous learning and adaptation are key to success in the ever-evolving tech landscape 📈.In addition to my technical skills, I hold a German A1 certificate and am currently progressing through B1-level German. I am passionate about achieving my language goals, as well as learning new tools and technologies in my free time.
 
 ### Social
-[![Let's Connect!](https://img.shields.io/badge/Let's_Connect!-0077B5?style=flat&logo=linkedin&logoColor=white&border-radius=15&width=140)](https://www.linkedin.com/in/sana-sameer-b2b9a114b)
+[![Let's Connect!](https://img.shields.io/badge/Let's_Connect!-0077B5?style=flat&logo=linkedin&logoColor=white&border-radius=15&width=140)](https://www.linkedin.com/in/sana-sameer-qa-engineer-b2b9a114b/)
 
 Feel free to reach out to me for networking, collaboration, or any inquiries. I’m always open to discussing opportunities in the tech industry!
 
