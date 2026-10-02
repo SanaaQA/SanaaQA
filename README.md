@@ -17,6 +17,7 @@ Feel free to reach out to me for networking, collaboration, or any inquiries. Iâ
 #### Functional Testing Tools
 ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=selenium&logoColor=43B02A&color=white)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress&logoColor=17202C&color=white)
+![Appium](https://img.shields.io/badge/Appium-black?style=flat&logo=Appium&logoColor=43B02A&color=white)
 ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat&logo=playwright&logoColor=3EAD5F&color=white)
 ![UFT](https://img.shields.io/badge/UFT-black?style=flat&logoColor=0071C5&color=white)
 #### Frameworks
